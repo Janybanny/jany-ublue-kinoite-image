@@ -35,9 +35,6 @@ modules:
       - plasma-discover-notifier
 
   - type: default-flatpaks
-    system:
-      - repo-url: https://dl.flathub.org/repo/flathub.flatpakrepo
-      - repo-name: flathub
     install:
       - Ark: org.kde.ark
       - Armcord: xyz.armcord.ArmCord
