@@ -33,7 +33,6 @@ modules:
       - ark-libs
       - kwrite
       - plasma-discover-notifier
-      - kwrited
 
   - type: default-flatpaks
     system:
