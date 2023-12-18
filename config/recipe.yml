@@ -36,7 +36,6 @@ modules:
       - Ark: org.kde.ark
       - Armcord: xyz.armcord.ArmCord
       - Bottles: com.usebottles.bottles
-      - Dolphin: org.kde.dolphin
       - GIMP: org.gimp.GIMP
       - Gwenview: org.kde.gwenview
       - Ktorrent: org.kde.ktorrent
