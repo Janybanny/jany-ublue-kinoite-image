@@ -50,8 +50,12 @@ modules:
       - Vesktop: dev.vencord.Vesktop
       - Xournalpp: com.github.xournalpp.xournalpp
 
-  - type: script
-    scripts:
-      # this sets up the proper policy & signing files for signed images to work
-      - signing.sh
-      
+  - type: akmods
+    install:
+      - openrgb
+      - xpadneo
+    - type: script
+      scripts:
+        # this sets up the proper policy & signing files for signed images to work
+        - signing.sh
+        
