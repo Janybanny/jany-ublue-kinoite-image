@@ -1,5 +1,5 @@
 ublue_variants:
   - label: janybanny/jany-ublue-kinoite-image
-    ks: /kickstart/ublue-os.ks
+    ks: /kickstart/ublue-os-nvidia.ks
     flavors:
       - label: jany-ublue-kinoite-image
